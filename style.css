@@ -1,0 +1,49 @@
+body {
+    background-color: antiquewhite;
+    color: rgb(122, 92, 15);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: cursive;    
+    }
+    
+    .avatar {
+    width: 200px;
+    border-radius: 28px; 
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+    }
+    
+    .info p {
+        color: coral;
+        margin: 0;
+        font-style: italic;
+        font-weight: bold;
+        text-decoration: underline;
+        text-transform: uppercase;        
+    }
+
+        .container {
+        max-width: 750px;
+        margin: auto;
+    }
+
+    .social {
+    background: rgb(194, 183, 183);
+    padding: 15px;
+    border: 5px solid rgb(109, 99, 99);
+    margin: 20px; 
+    }
+
+    .box {
+        background-color: rgb(146, 123, 168);
+        width: auto;
+        height: 50px;
+        border: 5px;
+        margin: 150px;        
+    }
+
+    .logo {         
+        width: 100px;
+        height: 100px;
+    }
+    
+    
